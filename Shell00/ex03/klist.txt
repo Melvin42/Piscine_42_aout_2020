@@ -1,0 +1,5 @@
+Credentials cache: API:CFB6E19C-F502-4BB3-BDCC-3F01BBD116FC
+        Principal: melperri@42.FR
+
+  Issued                Expires               Principal
+Aug  3 12:53:34 2020  Aug 10 12:53:34 2020  krbtgt/42.FR@42.FR
